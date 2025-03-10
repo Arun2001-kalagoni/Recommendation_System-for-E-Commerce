@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Recommendation System
 
 ## Overview
@@ -15,3 +16,6 @@ A Streamlit-based recommendation system using **Python, Django, Flask, and Mongo
 
 ## License
 MIT License
+=======
+# Recommendation_System-for-E-Commerce
+>>>>>>> f1f166b3a4b3dd3670d2aba76eb7c6630785def3
