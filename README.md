@@ -72,7 +72,7 @@ Recommendation_System/
 │── requirements.txt
 │── README.md
 ⚙️ Installation
-git clone https://github.com/your-username/Recommendation_System-for-E-Commerce.git
+git clone https://github.com/Arun2001-kalagoni/Recommendation_System-for-E-Commerce.git
 cd Recommendation_System-for-E-Commerce
 pip install -r requirements.txt
 ▶️ Usage
