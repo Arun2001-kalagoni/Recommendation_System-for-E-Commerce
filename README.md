@@ -76,7 +76,7 @@ Recommendation_System/
 ###⚙️ Installation
 git clone https://github.com/Arun2001-kalagoni/Recommendation_System-for-E-Commerce.git
 cd Recommendation_System-for-E-Commerce
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ▶️ Usage
 python main.py
 📊 Dataset
