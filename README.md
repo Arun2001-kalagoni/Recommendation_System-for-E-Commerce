@@ -55,11 +55,12 @@ Coverage
 
 Hybrid model outperformed individual models across all metrics.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 Language: Python
 Libraries: Pandas, NumPy, Scikit-learn
 NLP: TF-IDF, Text Processing
 Visualization: Matplotlib, Seaborn
+
 📂 Project Structure
 Recommendation_System/
 │── datasets/
@@ -71,7 +72,8 @@ Recommendation_System/
 │── main.py
 │── requirements.txt
 │── README.md
-⚙️ Installation
+
+###⚙️ Installation
 git clone https://github.com/Arun2001-kalagoni/Recommendation_System-for-E-Commerce.git
 cd Recommendation_System-for-E-Commerce
 pip install -r requirements.txt
@@ -99,21 +101,20 @@ Matte Lipstick XYZ
 Long Lasting Lip Color ABC
 Waterproof Lipstick DEF
 
-🔥 Scalability Considerations
+###🔥 Scalability Considerations
 Used sparse matrix optimizations for efficient similarity computation
 Precomputed similarity matrices to reduce runtime latency
 Modular design supports scaling to:
 PySpark
 
-Distributed systems
-🚀 Future Enhancements
+###Distributed systems 🚀 Future Enhancements
 Neural Collaborative Filtering
 Real-time recommendations using Kafka
 API deployment using FastAPI / Flask
 Vector databases (FAISS / Pinecone)
 Frontend using React / Streamlit
 
-💡 Key Takeaways
+###💡 Key Takeaways
 Built a hybrid recommendation system from scratch
 Applied NLP for content similarity
 Leveraged user interaction data for collaborative filtering
